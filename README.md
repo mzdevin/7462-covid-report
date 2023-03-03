@@ -3,7 +3,7 @@ Minnesota COVID Report
 
 Report last run: 2023-03-03 21:14:55
 
-## Introduction
+## Introduction change
 
 This is an example report that uses COVID-19 data from the New York
 Times to illustrate the use of automation processes.
